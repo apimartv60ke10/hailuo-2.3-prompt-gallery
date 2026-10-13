@@ -10,7 +10,7 @@
   <img src="assets/01-product-ad-ceramic-mug-thumb.jpg" width="820" alt="Hailuo 2.3 (MiniMax-Hailuo-2.3) output preview generated through APIMart">
 </p>
 
-> per generated second — one OpenAI-compatible endpoint at `https://api.apimart.ai/v1`, no monthly plan required. *(observed 2026-10-12)*
+> **from $0.0488 per second** at 768P (1080P $0.072) — one OpenAI-compatible endpoint at `https://api.apimart.ai/v1`, no monthly plan required. *(observed 2026-10-12)*
 
 **[Get an API key](https://go.apimart.ai/k-ca83bd)** · **[Live pricing](https://go.apimart.ai/k-d34d42)** · **[Model page](https://go.apimart.ai/k-419fcb)** · [⚡ 60-second quickstart](#quickstart)
 
